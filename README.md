@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Important Note - I'm not the devloper of this application this is just for preview all the credit goes to zainRk
+(https://github.com/ZainRk)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
